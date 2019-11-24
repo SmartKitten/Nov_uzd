@@ -57,7 +57,22 @@ body{
 
 }
 
+.paragraphs{
+    padding: 20px;
+}
+
+.paragraphs>b{
+    padding: 20px;
+    font-size: 30px;
+}
+
 .main>p {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #e78000;
+}
+
+.paragraphs>p {
     padding: 10px;
     font-size: 18px;
     background-color: #e78000;
