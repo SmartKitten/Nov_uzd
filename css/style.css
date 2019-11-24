@@ -122,3 +122,21 @@ textarea{
 .main_gallery{
     text-align: center;
 }
+
+@media only screen and (max-width: 1000px) {
+    .main {
+        background-color: lightblue;
+    }
+    .menu{
+        background-color: blue;
+    }
+    .footer{
+        background-color: #44aaee;
+    }
+    .main>p{
+        background-color: lightblue;
+    }
+    .main_vehicles{
+        background-color: lightblue;
+    }
+}
