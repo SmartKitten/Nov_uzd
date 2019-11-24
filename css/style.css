@@ -1,0 +1,97 @@
+body{
+    background-color: white;
+    background-image: url(../img/org/back.png);
+    background-size: cover;
+}
+
+.mainbox{
+    background-color: transparent;
+    margin: 0px auto;
+    width: 1004px;
+}
+.menu{
+    background-color: darkorange;
+    padding: 15px;
+}
+
+.menu li{
+    text-decoration: none;
+
+}
+
+.menu li a:hover{
+    padding: 20px;
+}
+
+.main{
+    background-color: orange;
+    text-decoration: none;
+    height: 750px;
+    margin-top: 20px;
+    padding: 35px;
+    font-size: 25px;
+}
+
+.main>p {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #e78000;
+}
+
+.main>p>z{
+    padding: 20px;
+}
+
+.main>p>textarea{
+    width: 100px;
+    height: 100px;
+}
+
+.map{
+    float: right;
+}
+
+textarea{
+    resize: none;
+    height: 150px;
+    width: 350px;
+}
+
+.footer{
+    background-color: #e78000;
+    padding: 10px;
+    padding-left: 200px;
+}
+
+.footer>p{
+    padding: 10px;
+
+}
+
+.menu{
+    height: 35px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display: inline;
+    padding: 15px;
+    background-color: darkgray;
+    position: relative;
+    top: 8px;
+    font-family: Tahoma, serif;
+    font-size: 14px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.gallery{
+    max-width: 120px;
+}
+
+.main_gallery{
+    text-align: center;
+}
