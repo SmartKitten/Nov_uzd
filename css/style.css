@@ -143,7 +143,7 @@ textarea{
         background-color: lightblue;
     }
     .menu{
-        background-color: blue;
+        background-color: #44aaee;
     }
     .footer{
         background-color: #44aaee;
@@ -153,5 +153,8 @@ textarea{
     }
     .main_vehicles{
         background-color: lightblue;
+    }
+    .paragraphs>p{
+        background-color: #44aaee;
     }
 }
