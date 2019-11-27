@@ -154,7 +154,14 @@ textarea{
     .main_vehicles{
         background-color: lightblue;
     }
+<<<<<<< HEAD
     .paragraphs>p{
         background-color: #44aaee;
     }
 }
+=======
+    .paragraphs{
+        background-color: #44aaee;
+    }
+}
+>>>>>>> d24cfabb364b478ab294efff13d18377135cb498
